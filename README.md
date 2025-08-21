@@ -12,4 +12,4 @@
 逐步縮小分組的間隔（gap），直到間隔為 1，此時就相當於普通的插入排序，但因為數列已經大致有序，效率會比直接插入排序高很多。
 
 ## 圖例說明
-![01]([https://github.com/lshengwei048/-/blob/main/%E5%9C%96%E7%89%871.png](https://github.com/lshengwei048/---/blob/main/%E5%9C%96%E7%89%871.png))
+![01](https://github.com/lshengwei048/---/blob/main/%E5%9C%96%E7%89%871.png)
