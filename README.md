@@ -71,4 +71,4 @@
     print("排序後:", sorted_data)
 
 ## 執行結果
-![01](https://github.com/lshengwei048/---/blob/main/%E5%9C%96%E7%89%871.png)
+![01](https://github.com/lshengwei048/---/blob/main/%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C.png)
